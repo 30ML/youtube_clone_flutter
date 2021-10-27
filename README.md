@@ -1,2 +1,2 @@
-# flutter_ui
-Flutter ui 정리 및 구현
+# Flutter UI Examples
+Flutter UI 예제와 코드를 보여주는 앱
