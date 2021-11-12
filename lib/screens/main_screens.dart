@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class Home extends StatefulWidget {
+class MainScreens extends StatefulWidget {
   @override
-  _HomeState createState() => _HomeState();
+  _MainScreensState createState() => _MainScreensState();
 }
 
-class _HomeState extends State<Home> {
+class _MainScreensState extends State<MainScreens> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
