@@ -1,4 +1,4 @@
-package com.example.flutter_ui_examples
+package com.example.youtube_clone_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 
