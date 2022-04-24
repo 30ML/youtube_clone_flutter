@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "*.hbs": "handlebars",
+    "__tuple": "cpp",
+    "__bit_reference": "cpp",
+    "__split_buffer": "cpp",
+    "vector": "cpp",
+    "string": "cpp",
+    "__hash_table": "cpp",
+    "array": "cpp",
+    "bitset": "cpp",
+    "hash_map": "cpp",
+    "initializer_list": "cpp",
+    "list": "cpp",
+    "string_view": "cpp",
+    "unordered_map": "cpp",
+    "iterator": "cpp"
+  }
+}
